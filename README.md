@@ -43,7 +43,7 @@ The SEO Content Analyzer is a powerful Python script that performs semantic anal
    - Place the file in the project root directory
 
 2. Modify the script:
-   - Open `robust-checker.py` in a text editor
+   - Open `seo-semantix.py` in a text editor
    - Locate the `main()` function
    - Update the following lines:
      ```python
@@ -51,7 +51,7 @@ The SEO Content Analyzer is a powerful Python script that performs semantic anal
      keyword = "your_keyword"  # Change "dress" to your desired keyword
      ```
 
-3. Run the script: `python robust-checker.py`
+3. Run the script: `python seo-semantix.py`
 
 4. Check the `output_YYYYMMDD_HHMMSS` directory for results:
    - `seo_content_analysis_dashboard.html`: Interactive dashboard
